@@ -1,0 +1,3 @@
+In this folder you can find the answer to:
+
+What is the command to open a file from within Emacs?

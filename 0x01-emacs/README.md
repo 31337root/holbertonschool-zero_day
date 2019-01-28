@@ -1,3 +1,1 @@
-In this folder you can find the answer to:
-
-What is the command to open a file from within Emacs?
+In this folder you can find the answer to the whole project about emacs.
